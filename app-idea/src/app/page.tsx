@@ -19,7 +19,6 @@ export default function Home() {
     updateStat("focus", 0);
     setTimeout(() => {
       scoreImplimentation();
-      console.log(stats);
     }, 1);
     updateStats();
     setupTaskButtons();

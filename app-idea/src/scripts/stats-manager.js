@@ -4,23 +4,23 @@ export const ovrStat = {
 }
 export const focusStat = {
     statName: "focus",
-    rating: 75,
+    rating: 0,
 }
 export const strengthStat = {
     statName: "strength",
-    rating: 90,
+    rating: 0,
 }
 export const confidenceStat = {
     statName: "confidence",
-    rating: 85,
+    rating: 0,
 }
 export const disciplineStat = {
     statName: "discipline",
-    rating: 80,
+    rating: 0,
 }
 export const wisdomStat = {
     statName: "wisdom",
-    rating: 85,
+    rating: 0,
 }
 
 export const stats = [
